@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a MERN Stack Developer from Kerala, India<br>📚 Exploring Next.js for building performant web applications<br>💬 Ask me about anything. I am happy to help<br>📫 How to reach me: muhammedfayazts01@gmail.com<br>⚡Actively developing personal projects and contributing to open-source initiatives in my free time.
+🔭 I’m a MERN Stack Developer from Kerala, India<br>📚 Exploring Next.js for building performant web applications<br>💬 Ask me about anything. I am happy to help<br>📫 How to reach me: aneeshg1102@gmail.com<br>⚡Actively developing personal projects and contributing to open-source initiatives in my free time.
 
 
 ## 🌐 Socials:
